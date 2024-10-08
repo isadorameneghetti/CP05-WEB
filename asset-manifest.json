@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CP05-WEB/static/css/main.ff8a50ea.css",
+    "main.js": "/CP05-WEB/static/js/main.7128143f.js",
+    "static/js/453.ed3810f9.chunk.js": "/CP05-WEB/static/js/453.ed3810f9.chunk.js",
+    "static/media/thai-food-6754240_1920.jpg": "/CP05-WEB/static/media/thai-food-6754240_1920.2143e1469d9e9b829998.jpg",
+    "static/media/thumbs-up-4200437_1280.jpg": "/CP05-WEB/static/media/thumbs-up-4200437_1280.685979ce98a9fefabf3a.jpg",
+    "static/media/burger-3442227_1280.jpg": "/CP05-WEB/static/media/burger-3442227_1280.02a7fccdbeafd2341b11.jpg",
+    "static/media/filtros.jpg": "/CP05-WEB/static/media/filtros.a3d468d45b92b39a402b.jpg",
+    "static/media/finger-food-2396094_1280.jpg": "/CP05-WEB/static/media/finger-food-2396094_1280.746f3ac75bbac2421980.jpg",
+    "static/media/motoboy_widelg.jpg": "/CP05-WEB/static/media/motoboy_widelg.1fb583bffe5fbc996ae6.jpg",
+    "static/media/professorcria.jpeg": "/CP05-WEB/static/media/professorcria.30d7dcb13d7d937b0440.jpeg",
+    "static/media/entregador.jpg": "/CP05-WEB/static/media/entregador.46b293e2bd4d7cbeda10.jpg",
+    "static/media/professor2.jpeg": "/CP05-WEB/static/media/professor2.235c45ec83e3192c7850.jpeg",
+    "index.html": "/CP05-WEB/index.html",
+    "main.ff8a50ea.css.map": "/CP05-WEB/static/css/main.ff8a50ea.css.map",
+    "main.7128143f.js.map": "/CP05-WEB/static/js/main.7128143f.js.map",
+    "453.ed3810f9.chunk.js.map": "/CP05-WEB/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff8a50ea.css",
+    "static/js/main.7128143f.js"
+  ]
+}
