@@ -2,6 +2,9 @@
 
 GourmetOn é um aplicativo inovador de entrega de comida que conecta os usuários a uma ampla variedade de restaurantes e pratos. Com uma interface intuitiva e funcionalidades avançadas, garantimos que seus pedidos sejam feitos de forma rápida e fácil, proporcionando uma experiência única para os amantes da gastronomia.
 
+## Link Site
+https://isadorameneghetti.github.io/CP05-WEB/
+
 ## Integrantes
 - Isadora de Morais Meneghetti (RM: 556326)
 - Júlio César Ruiz Zequin (RM: 554676)
